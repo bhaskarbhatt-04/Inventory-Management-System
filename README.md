@@ -17,31 +17,34 @@ The central dashboard of the system provides a quick overview of the key functio
 **3.Category Management:**
 
 Products can be categorized into different categories, making it easier to organize and manage them. Admins can add new categories, update category details, and delete categories as needed.<br>
-![Screenshot (50)](https://github.com/user-attachments/assets/645ec84e-4c21-40cb-9935-61bf86da032e)<br>
+![WhatsApp Image 2024-08-12 at 6 28 17 PM](https://github.com/user-attachments/assets/c0dfd2fc-99cc-486b-a948-f85cc40066ac)
+<br>
 
 **4.User Management:**
 
 Admins can manage user accounts, including adding new users, updating user information, and removing users from the system. This module ensures that user access is controlled and monitored.<br>
-![Screenshot (49)](https://github.com/user-attachments/assets/2d29df8d-513d-4c03-b74b-3e29902e02ff)<br>
+![WhatsApp Image 2024-08-12 at 6 28 18 PM](https://github.com/user-attachments/assets/c785bb0d-52a5-4024-b374-9def55ee6607)<br>
+
 
 
 **5. Product Management:**
 
 Admins can manage the product catalog, including adding new products, updating existing product information, and removing products from the inventory. This module also allows for categorizing products for better organization and easier retrieval.<br>
-![Screenshot (52)](https://github.com/user-attachments/assets/11a22cab-472d-4a45-b05b-b3b2b955f64c)<br>
+![WhatsApp Image 2024-08-12 at 6 28 19 PM (2)](https://github.com/user-attachments/assets/4b1e28a7-cc17-46d4-aa25-5be2fe1c0ae1)<br>
 
 **6. Order Products:**
 
 This feature enables the placement of orders within the system. Admins can select products from the inventory, specify quantities, and finalize the order. This module ensures accurate stock levels and helps in tracking inventory movements.<br>
 
-![Screenshot (53)](https://github.com/user-attachments/assets/60bfc5b3-409a-438b-a7d1-8cadca88c4c2)<br>
+![WhatsApp Image 2024-08-12 at 6 28 19 PM (1)](https://github.com/user-attachments/assets/8b7957ba-531b-4bbc-bb34-2040b05f4d8d)<br>
 
 
 **7. View Orders:**
 
 This component allows admins to view all orders placed by customers. It includes order details such as order ID, customer information, product details, quantity, total price, and order status. This functionality helps in tracking and managing orders efficiently.<br>
 
-![Screenshot (54)](https://github.com/user-attachments/assets/bfd6752f-4417-4b7c-885a-d417c97e7964)<br>
+![WhatsApp Image 2024-08-12 at 6 28 20 PM (1)](https://github.com/user-attachments/assets/087f7a33-57ca-48fa-b4c5-90c05cfc5aed)
+<br>
 
 **8 .Database Management (MySQL):**
 
@@ -51,6 +54,6 @@ The backend of the system is powered by a MySQL database, which securely stores 
 **^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^**
 
 **Automatically generated Bill**
-![Screenshot (57)](https://github.com/user-attachments/assets/f761b0ee-c05d-4d8f-8288-312b33d36142)<br>
+![WhatsApp Image 2024-08-12 at 6 28 20 PM](https://github.com/user-attachments/assets/aed5fc7d-a8bc-4613-bd25-d01856b31ec2)<br>
 
 
